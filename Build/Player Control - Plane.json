@@ -1,0 +1,16 @@
+{
+"companyName": "Benjamin Espino",
+"productName": "Unit 1 - Player Control",
+"productVersion": "2.0",
+"dataUrl": "Player Control - Plane.data.unityweb",
+"wasmCodeUrl": "Player Control - Plane.wasm.code.unityweb",
+"wasmFrameworkUrl": "Player Control - Plane.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.30f1"
+}
